@@ -27,3 +27,15 @@ ul{
     flex-direction: column;
     gap: 1rem;
 }
+@media (max-width:450px){
+    .input-box{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    } 
+    input,button{
+        width: 100%;
+        border: 1px solid balck;
+    }
+}
