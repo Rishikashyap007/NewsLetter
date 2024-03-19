@@ -5,7 +5,7 @@ function Footer(){
         
         <div className="footer_news">
          <div className="footer-menus">
-         <spam className="first_line">© 2024 GrowthX</spam>
+            <spam className="first_line">© 2024 GrowthX</spam>
         <a href="/">Privacy</a>
         <a href="/">Terms</a>
         <a href="/">Collection</a>
