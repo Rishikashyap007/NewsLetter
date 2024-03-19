@@ -1,0 +1,22 @@
+.footer_news{
+    color: rgb(54, 51, 51);
+    background-color: rgba(237, 235, 232, 0.998);
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: rgb(54, 51, 51);
+    margin:0.5%;
+}
+.newsletter_btn1{
+    padding:1%;
+    margin:2%;
+    margin-bottom: 0%;
+    border-radius: 10px;
+    font-size:13px;
+    font-weight: bold;
+    background-color: white;
+}
+.last_line{
+    padding-bottom: 1%;
+}
